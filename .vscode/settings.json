@@ -1,0 +1,7 @@
+{
+  "[markdown]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.formatOnSave": true,
+  "cSpell.words": ["amap", "antv", "qiankun", "telegra", "yalc"]
+}
